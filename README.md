@@ -12,8 +12,7 @@
 
 - 💞️ I'm always open to collaborating on interesting projects related to C++, Python, OpenCV, Machine Learning. If you have an exciting idea or project in mind, feel free to reach out!
 
-[Connect with me:]([https://github.com/USERNAME/REPOSITORY](https://www.linkedin.com/in/shubham-parmar-9876a0220/))
-
+[Connect with me:](https://www.linkedin.com/in/shubham-parmar-9876a0220/)
 
 <h3 align="left">.</h3>
 
