@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin: 100px; padding: 50px;">
 
-- I'm Shubham, a ML enthusiast based in India.
+- I'm Shubham, a ML enthusiast ECE sudent, based in India.
 
 - 👀 I'm interested in C++, Python, OpenCV, Machine Learning, and I'm constantly exploring new opportunities and technologies.
 
