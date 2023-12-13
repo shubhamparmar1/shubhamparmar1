@@ -4,6 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin: 100px; padding: 50px;">
 
+
 - I'm Shubham, a ML enthusiast ECE sudent, based in India. 
 
 - 👀 I'm interested in C++, Python, OpenCV, Machine Learning, and I'm constantly exploring new opportunities and technologies.
@@ -12,13 +13,28 @@
 
 - 💞️ I'm always open to collaborating on interesting projects related to C++, Python, OpenCV, Machine Learning. If you have an exciting idea or project in mind, feel free to reach out!
 
+<pre></pre>
 
-[Connect with me: LinkedIn](https://www.linkedin.com/in/shubham-parmar-9876a0220/)
+
+Connect with me:
+<div align="left">
+<a href="https://www.linkedin.com/in/shubham-parmar-9876a0220/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="python logo"  />
+<!--   <img width="1" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamparmar1&show_icons=true&locale=en&layout=compact" alt="shubhamparmar1"  /></p>
+<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamparmar1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&border_radius=5&order=3" alt="shubhamparmar1"  /></p>
 
 <p><img align="right" width="400" src="https://streak-stats.demolab.com/?user=shubhamparmar1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="shubhamparmar1" /></p>
