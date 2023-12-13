@@ -21,4 +21,4 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamparmar1&show_icons=true&locale=en&layout=compact" alt="shubhamparmar1"  /></p>
 
-<p><img align="right" width="500" src="https://streak-stats.demolab.com/?user=shubhamparmar1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="shubhamparmar1" /></p>
+<p><img align="right" width="400" src="https://streak-stats.demolab.com/?user=shubhamparmar1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="shubhamparmar1" /></p>
