@@ -2,8 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamparmar1&label=Profile%20views&color=0e75b6&style=flat&style=flat" alt="shubhamparmar1" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin: 100px; padding: 50px;">
+<div style="padding: 50px; text-align: left;">
+  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-left: 20px;">
+</div>
 
+<p>
 
 - I'm Shubham, a ML enthusiast ECE sudent, based in India. 
 
@@ -13,6 +16,7 @@
 
 - 💞️ I'm always open to collaborating on interesting projects related to C++, Python, OpenCV, Machine Learning. If you have an exciting idea or project in mind, feel free to reach out!
 
+</p>
 <pre></pre>
 
 
