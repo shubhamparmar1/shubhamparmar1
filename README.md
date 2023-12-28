@@ -3,8 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamparmar1&label=Profile%20views&color=0e75b6&style=flat&style=flat" alt="shubhamparmar1" /> </p>
 
 <div style="padding: 50px; text-align: left;">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border: 50px solid #f0f0f0;">  
+<!--   <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border: 50px solid #f0f0f0;">   -->
+  <img align="right" alt="Coding" width="400" src="https://github.com/shubhamparmar1/shubhamparmar1/assets/134207725/899e46cc-1aca-4389-ac3d-348963d9d7ba" size="10px">
 </div>
+
+
 
 <p>
 
